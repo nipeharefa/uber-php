@@ -40,5 +40,5 @@
     "suggest": {
         "stevenmaguire/oauth2-uber": "Making it simple to integrate your application with Uber using OAuth 2.0"
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
